@@ -44,4 +44,5 @@ Code and notes from the Machine Learning Bookcamp book
 * Training a model with fransfer learning
 * Data augmentations
 
-[IC for Clothes Training Code](https://github.com/Diegomarmac/ML-BookCamp/blob/main/fashion-classification/fashion-classifier.ipynb)
+[IC for Clothes Training Code](https://github.com/Diegomarmac/ML-BookCamp/blob/main/fashion-classification/fashion-classifier-train.ipynb)
+[IC for Clothes Test Code](https://github.com/Diegomarmac/ML-BookCamp/blob/main/fashion-classification/fashion-classfier-test.ipynb)
